@@ -1,0 +1,24 @@
+{
+  "name": "fintax",
+  "version": "1.0.0",
+  "description": "I created a personal website using vue js in order to complete the Vue.js Frontend test for Fintax Frontend Intenship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ihwanes/fintax-vuejs-frontend-test.git"
+  },
+  "author": "Ihwanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ihwanes/fintax-vuejs-frontend-test/issues"
+  },
+  "homepage": "https://github.com/Ihwanes/fintax-vuejs-frontend-test#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "bootstrap-icons": "^1.3.0",
+    "vue": "^2.6.12"
+  }
+}
